@@ -20,8 +20,7 @@
 
 title: Gigi's Jekyll Site
 email: gbroyles@umich.edu
-description: >- # this means to ignore newlines until "baseurl:"
-Welcome to Gigi's Jekyll site for SI676!
+description: Welcome to Gigi's Jekyll site for SI676!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
