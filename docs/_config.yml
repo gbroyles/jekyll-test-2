@@ -21,8 +21,8 @@
 title: Gigi's Jekyll Site
 email: gbroyles@umich.edu
 description: Welcome to Gigi's Jekyll site for SI676!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://gbroyles.github.io/jekyll-test-2" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
